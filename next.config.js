@@ -5,8 +5,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/infixen_energy.com',
-  assetPrefix: '/infixen_energy.com/',
 }
 
 module.exports = nextConfig
